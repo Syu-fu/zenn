@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "lint": "textlint ./posts/**/*.md"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@textlint-ja/textlint-rule-no-insert-dropping-sa": "^2.0.1",
+    "textlint": "^13.3.3",
+    "textlint-rule-ja-joyo-or-jinmeiyo-kanji": "^1.0.3",
+    "textlint-rule-ja-unnatural-alphabet": "^2.0.1",
+    "textlint-rule-preset-ja-spacing": "^2.3.0",
+    "textlint-rule-preset-ja-technical-writing": "^10.0.0"
+  }
+}
