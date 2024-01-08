@@ -1,7 +1,7 @@
 ---
-title: "Vercelのプレビューに対してしたpa11y-ciを実行してアクセシビリティについて自動テストする"
-emoji: "📑"
-type: "tech" # tech: 技術記事 / idea: アイデア
+title: "Vercelのプレビューに対してpa11y-ciを実行してアクセシビリティについて自動テストする"
+emoji: "🚀"
+type: "tech"
 topics: ["アクセシビリティ", "a11y", "githubactions", "vercel", "pa11yci"]
 published: true
 published_at: 2024-01-08 15:00
