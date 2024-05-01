@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "lint": "textlint ./posts/**/*.md"
+    "lint": "textlint ./**/*.md"
   },
   "dependencies": {},
   "devDependencies": {
